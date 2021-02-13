@@ -23,5 +23,7 @@ Here are some ideas to get you started:
 
 <br>
 <br>
-
-I am currently a Senior pursuing my Bachelors in Computer Science and Engineering
+<ol>
+<li>I am currently a Senior pursuing my Bachelors in Computer Science and Engineering.
+<li>I am passionate about Machine Learning.
+</ol>
