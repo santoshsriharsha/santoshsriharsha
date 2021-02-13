@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<br>
 <br>
 
 I am currently a Senior pursuing my Bachelors in Computer Science and Engineering
