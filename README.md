@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 
 <br>
-<br>
 <ul>
 <li>I am currently working as a Systems Engineer with 1+ YOE.
 <li>I am completed my BTech in Computer Science.
