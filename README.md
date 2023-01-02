@@ -18,6 +18,5 @@ Here are some ideas to get you started:
 <br>
 <ul>
 <li>I am currently working as a Systems Engineer with 1+ YOE.
-<li>I am completed my BTech in Computer Science.
-<li>I am interested in Software Engineering.
+<li>I have completed my BTech in Computer Science.
 </ul>
