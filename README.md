@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 <br>
 <ul>
-<li>I am currently working as a Systems Engineer with 1+ YOE.
+<li>I am currently working as a Software Developer with 1.5 years of experience.
 <li>I have completed my BTech in Computer Science.
 </ul>
