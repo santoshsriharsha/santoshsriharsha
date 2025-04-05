@@ -1,4 +1,4 @@
-### Hi there 👋 I am Sriharsha
+### Hi there 👋 I am Santosh Sriharsha
 
 <!--
 **ksriharsha2000/ksriharsha2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
